@@ -1,1 +1,1 @@
-### Build from https://github.com/rockchip-linux/mpp/commit/ed43d014bed70913757bd52618c40a3fef6458d4
+### Build from https://github.com/numbqq/mpp/commit/b410e17cd4f37cff0bdec728842a8b835bcd7681
